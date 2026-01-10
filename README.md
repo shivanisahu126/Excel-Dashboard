@@ -26,10 +26,6 @@ Winner/Laggard Identification: Automated highlighting of top-performing brands (
 
 3. Geographical Segmentation
 Regional Breakdown: Interactive charts visualizing contributions from different zones (North, South, East, West, Central).
-
-
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/85882529-20ce-4839-83c8-d373a598c877" />
-
 Dynamic Slicers: Allows users to filter the entire dashboard by specific regions to identify localized market trends.
 
 5. Temporal Trend Analysis
@@ -52,3 +48,9 @@ Bar/Column Charts - Brand-wise performance benchmarking.
 Pie/Donut Charts - Regional market share distribution.
 Line Charts - Monthly revenue and unit sales trends.
 Slicers - Deep-dive filtering by Brand and Region.
+
+
+---------------DASHBOARD------------------
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/85882529-20ce-4839-83c8-d373a598c877" />
+
